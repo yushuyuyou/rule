@@ -3,7 +3,6 @@ DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagr.am
 
-
 # YouTube
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
